@@ -12,5 +12,8 @@
     "chia"
   ],
   "author": "swati",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
